@@ -1,0 +1,26 @@
+.banner{
+    background-image: url(img/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color:black;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+nav{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.jumbo{
+        background-image: url(img/jumbo.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding-top: 10%;
+        padding-bottom: 10%;
+        color:white;
+        font-family: 'Merriweather Sans', sans-serif;
+}
+.perihal{
+    font-family: 'Merriweather Sans', sans-serif;
+}
